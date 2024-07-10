@@ -1,4 +1,4 @@
-<h1 align="left">jakovlovakovic</h1>
+<h1 align="left">Jakov Lovaković</h1>
 
 ###
 
