@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Third-year computer science student at the Faculty of Electrical Engineering and Computing in Zagreb.</p>
+<p align="left">Fourth-year computer science student at the Faculty of Electrical Engineering and Computing in Zagreb.</p>
 
 ###
 
